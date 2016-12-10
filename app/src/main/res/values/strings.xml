@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">xxx我爱你</string>
+    <string name="edit_message">请输入消息</string>
+    <string name="btn_send">send</string>
+</resources>
